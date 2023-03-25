@@ -3,9 +3,9 @@
 My name is **Andi Alif Lakipadada Norman** , people usually call me **Alif**
 
 - 🔭 I’m currently working on Essence Store Bali as a sales manager and product designer
-- 🌱 I’m currently learning flutter (dart)
-- ⚡ As of for now i've already learned HTML, CSS, JavaScript, Java, Database (SQL),and PHP
-- 📫 You can hit me up on **whatsapp : 085342047485** or find me on **Instagram : @aliflkpd**
+- ⚡ As of for now i've already learned HTML, CSS, JavaScript, Java, Database (SQL),PHP, and Flutter (Dart)
+- 📫 You can hit me up on **email : andialifnurman@gmail.com** or find me on **Instagram : @aliflkpd**
+- LINKEDIN : https://www.linkedin.com/in/alif-lakipadada-038ba7215/
 
 <p align="left">
 <a href="https://github.com/aliflkpd">
