@@ -1,6 +1,6 @@
-# Hi 👋
+# Hi Everyone!! 👋
 
-My name is **Andi Alif Lakipadada Norman** , people usually call me **Alif**
+## My name is **Andi Alif Lakipadada Norman** , people usually call me **Alif**
 
 - 🔭 I’m working as a UI Engineer at Universitas Pendidikan Nasional's it staff, INTENS,
 - ⚡ As of for now i've already learned HTML, CSS, Angular, Vue, Express JS, Firebase, Database (SQL), Laravel, and Flutter (Dart)
