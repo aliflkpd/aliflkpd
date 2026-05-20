@@ -1,11 +1,16 @@
 # Hi 👋
 
-My name is **Andi Alif Lakipadada Norman** , people usually call me **Alif**
+It's **Andi Alif Lakipadada Norman** here, you can call me **Alif**
 
-- 🔭 I’m working as a UI Engineer at Universitas Pendidikan Nasional's it staff, INTENS,
-- ⚡ As of for now i've already learned HTML, CSS, Angular, Vue, Express JS, Firebase, Database (SQL), Laravel, and Flutter (Dart)
-- 📫 You can hit me up on **email : andialifnurman@gmail.com** or find me on **Instagram : @aliflkpd**
-- LINKEDIN : https://www.linkedin.com/in/alif-lakipadada-038ba7215/
+ **Product Manager & Mentor**
+Designing digital products that are clear, usable, and built to convert. Also loves mentoring junior designers and career switchers into the industry.
+- 📫 For collaboration, hit me up info@aliflkpd.com
+
+Check my portfolio on https://www.aliflkpd.com
+
+Social Media :
+- LinkedIn : https://www.linkedin.com/in/aliflkpd
+- Instagram : https://www.instagram.com/aliflkpd
 
 <p align="left">
 <a href="https://github.com/aliflkpd">
